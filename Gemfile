@@ -10,6 +10,7 @@ gem 'private_pub'
 gem 'thin'
 gem 'foreman'
 gem 'redis'
+gem 'turbolinks'
 
 gem 'sass-rails'
 gem 'jquery-rails'
