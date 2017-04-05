@@ -9,7 +9,6 @@ gem 'devise'
 gem 'private_pub'
 gem 'thin'
 gem 'foreman'
-gem 'sqlite3'
 gem 'redis'
 
 gem 'sass-rails'
